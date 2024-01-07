@@ -44,7 +44,7 @@ public class EntityPlayer extends RigidEntity {
     public GameSession session;
 
     @Getter
-    private String name = "Unnamed";
+    private String name = "Guest";
 
     @Getter
     private final Color color;
